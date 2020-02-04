@@ -1,4 +1,5 @@
 DeepLearning usando Keras do Tensorflow
+
 ![fashion-mnist](https://user-images.githubusercontent.com/47867376/73755317-9ddbd700-4744-11ea-94aa-53650caef733.png)
 
 Nesse modelo foi utilizado o dataset de roupas (MNIST Fashion) para classificação e identificação de categorias de roupas. Usando Keras do Tensorflow para treinar modelos de aprendizagem profunda, diminuindo a taxa de erro.
