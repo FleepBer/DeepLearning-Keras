@@ -1,4 +1,4 @@
-# DeepLearning usando Keras do Tensorflow
+# DeepLearning Keras
 
 ![fashion-mnist](https://user-images.githubusercontent.com/47867376/73755317-9ddbd700-4744-11ea-94aa-53650caef733.png)
 
