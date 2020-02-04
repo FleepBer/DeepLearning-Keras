@@ -3,7 +3,7 @@
 Nesse modelo foi utilizado o dataset de roupas (MNIST Fashion) para classificação e identificação de categorias de roupas. Usando Keras do Tensorflow para treinar modelos de aprendizagem profunda, diminuindo a taxa de erro.
 
 Escala de cores por pixel
-
+![botas](https://user-images.githubusercontent.com/47867376/73755181-6836ee00-4744-11ea-8d3a-0d4c0d0466a8.png)
 
 # Criação de modelo
 
